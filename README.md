@@ -8,7 +8,7 @@
 ### Installation
 1. Clone the repository
 ```
-git clone https://github.com/AI-TEAM-R-D-Models/doc-ocr-api.git
+git clone https://github.com/AliAhmedKhan002/DocumentOCR.git
 ```
 
 2. Environment
